@@ -1,0 +1,3 @@
+ini adalah resolusi untuk tahun 2019:
+- Mampu menggunakan git dan github
+- Mampu menjelaskan dan menyampaikan materi mengenai bootstrap
