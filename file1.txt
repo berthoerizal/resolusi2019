@@ -3,3 +3,10 @@ ini adalah resolusi untuk tahun 2019:
 - Mampu menggunakan github
 - Mampu menjelaskan dan menyampaikan materi mengenai bootstrap
 - Menyelesaikan tugas-tugas semester VI
+
+Materi yang akan disampaikan:
+- bootstrap
+- konsep
+- tutorial
+- praktikum
+- tanya jawab
